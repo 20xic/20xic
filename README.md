@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**20xic/20xic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/banner_final.svg" width="100%">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="assets/header_monitor.svg" width="100%">
+
+<img src="https://ghchart.rshah.org/25e0d8/20xic" width="100%" alt="contribution calendar"/>
+
+<img src="https://raw.githubusercontent.com/20xic/20xic/output/snake.svg" width="100%" alt="snake"/>
+
+</div>
+
+<div align="center">
+
+<img src="assets/footer_session.svg" width="100%">
+
+<img src="https://komarev.com/ghpvc/?username=20xic&style=flat-square&color=25e0d8">
+
+</div>
