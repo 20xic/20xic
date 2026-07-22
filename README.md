@@ -12,6 +12,8 @@
 
 <img src="https://raw.githubusercontent.com/20xic/20xic/output/snake.svg" width="100%" alt="snake"/>
 
+<img src="https://raw.githubusercontent.com/20xic/20xic/output/metrics.svg" width="100%" alt="metrics"/>
+
 </div>
 
 <div align="center">
