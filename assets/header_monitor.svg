@@ -1,0 +1,28 @@
+<svg width="736" height="70" viewBox="0 0 736 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0.5" x2="3" y2="0.5" stroke="#000814" stroke-width="1" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="736" height="70" fill="#0c1226"/>
+  <rect x="0" y="0" width="736" height="70" fill="url(#scan)"/>
+  <rect x="0" y="30" width="736" height="2" fill="#25e0d8" opacity="0.15"/>
+  <rect x="10" y="10" width="716" height="50" fill="none" stroke="#25e0d8" stroke-width="1.5"/>
+  <g stroke="#25e0d8" stroke-width="2" fill="none">
+    <path d="M10 10 h20 M10 10 v20"/>
+    <path d="M726 10 h-20 M726 10 v20"/>
+    <path d="M10 60 h20 M10 60 v-20"/>
+    <path d="M726 60 h-20 M726 60 v-20"/>
+  </g>
+  <text x="32" y="45" font-family="monospace" font-size="26" font-weight="bold" fill="#123a5a" letter-spacing="4">GITHUB MONITOR</text>
+  <text x="30" y="43" font-family="monospace" font-size="26" font-weight="bold" fill="#25e0d8" letter-spacing="4">GITHUB MONITOR</text>
+  <text x="500" y="43" font-family="monospace" font-size="12" fill="#5a86a0">// LIVE FEED</text>
+  <circle cx="700" cy="35" r="5" fill="#25e0d8"/>
+  <g fill="#8fd9d8">
+    <rect x="600" y="28" width="2" height="14"/><rect x="606" y="28" width="1" height="14"/><rect x="610" y="28" width="3" height="14"/>
+    <rect x="616" y="28" width="1" height="14"/><rect x="620" y="28" width="2" height="14"/><rect x="625" y="28" width="4" height="14"/>
+    <rect x="632" y="28" width="1" height="14"/><rect x="636" y="28" width="2" height="14"/><rect x="641" y="28" width="3" height="14"/>
+    <rect x="647" y="28" width="1" height="14"/><rect x="651" y="28" width="2" height="14"/><rect x="656" y="28" width="4" height="14"/>
+    <rect x="663" y="28" width="1" height="14"/><rect x="667" y="28" width="2" height="14"/>
+  </g>
+</svg>
